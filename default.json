@@ -9,7 +9,7 @@
       {
         "updateTypes": ["minor", "patch", "digest"],
         "matchPackagePatterns": [
-"^org.apache.maven.plugins:maven*",
+          "^org.apache.maven.plugins:maven*",
           "^github.com/aws/aws-sdk-go",
           "^com.amazonaws:aws-*",
           "^org.slf4j:slf4j*",  
@@ -44,8 +44,8 @@
           "^no.entra.bacnet:bacnet*",  
           "^no.entra.entraos.api:realestate*",  
           "^io.swagger.core.v3:swagger*",  
-          "^software.amazon.awssdk:bom",
-                    
+          "^org.junit.jupiter:junit*",  
+          "^software.amazon.awssdk:bom",                    
           "^com.exoreaction.catalystone:event-*",  
           "^com.exoreaction.xorcery:xorcery*"
         ],
