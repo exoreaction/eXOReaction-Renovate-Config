@@ -47,6 +47,7 @@
           "^org.junit.jupiter:junit*",  
           "^software.amazon.awssdk:bom",                    
           "^com.exoreaction.catalystone:event-*",  
+          "^com.exoreaction.xorcery:grpc*",  
           "^com.exoreaction.xorcery:xorcery*"
         ],
         "automerge": true,
