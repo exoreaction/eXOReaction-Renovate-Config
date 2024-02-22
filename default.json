@@ -10,6 +10,7 @@
         "updateTypes": ["minor", "patch", "digest"],
         "matchPackagePatterns": [
           "^org.apache.maven.plugins:maven*",
+          "^org.codehaus.mojo:exec-maven-plugin*",
           "^github.com/aws/aws-sdk-go",
           "^com.amazonaws:aws-*",
           "^org.slf4j:slf4j*",  
