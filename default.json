@@ -13,6 +13,7 @@
           "^org.codehaus.mojo:exec-maven-plugin*",
           "^github.com/aws/aws-sdk-go",
           "^ch.qos.logback:logback-core*",    
+          "^ch.qos.logback:logback-classic*",
           "^com.amazonaws:aws-*",
           "^org.slf4j:slf4j*",  
           "^org.slf4j:jcl*",  
