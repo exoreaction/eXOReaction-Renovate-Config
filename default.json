@@ -24,6 +24,7 @@
           "^com.fasterxml.jackson.datatype:jackson*",  
           "^com.fasterxml.jackson.module:jackson*",  
           "^com.fasterxml.jackson.core:jackson*",
+          "^com.fasterxml.jackson:jackson*",  
           "^com.slack.api:slack-api-client*",  
           "^org.apache.httpcomponents:httpclient*",  
           "^org.apache.httpcomponents:fluent",    
