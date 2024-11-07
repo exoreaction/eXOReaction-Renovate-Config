@@ -47,9 +47,10 @@
           "^no.entra.entraos.api:realestate*",  
           "^io.swagger.core.v3:swagger*",  
           "^org.junit.jupiter:junit*",  
-          "^software.amazon.awssdk:bom",                    
+          "^software.amazon.awssdk:bom", 
           "^com.exoreaction.catalystone:event-*",  
           "^com.exoreaction.xorcery:grpc*",  
+          "^dev.xorcery:xorcery*",
           "^com.exoreaction.xorcery:xorcery*"
         ],
         "automerge": true,
