@@ -32,6 +32,7 @@
           "^no.cantara.config:property-config",
           "^no.cantara.base:Resilience4j-*",  
           "^no.cantara.base:Hystrix-*",   
+          "^com.exoreaction:**",   
           "^no.cantara.jau:configservice*",  
           "^no.cantara.config:simple-microservice-config*",  
           "^org.valuereporter:valuereporter*",  
