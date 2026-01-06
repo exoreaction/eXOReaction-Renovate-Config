@@ -52,7 +52,8 @@
           "^com.exoreaction.catalystone:event-*",  
           "^com.exoreaction.xorcery:grpc*",  
           "^dev.xorcery:xorcery*",
-          "^com.exoreaction.xorcery:xorcery*"
+          "^com.exoreaction.xorcery:xorcery*",
+          "^com.exoreaction:exoreaction-secrets-manager*"
         ],
         "automerge": true,
         "ignoreTests": true
