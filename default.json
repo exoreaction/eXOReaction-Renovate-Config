@@ -53,6 +53,7 @@
           "^com.exoreaction.xorcery:grpc*",  
           "^dev.xorcery:xorcery*",
           "^com.exoreaction.xorcery:xorcery*",
+          "^com.exoreaction:slack-notification-library*",
           "^com.exoreaction:exoreaction-secrets-manager*"
         ],
         "automerge": true,
