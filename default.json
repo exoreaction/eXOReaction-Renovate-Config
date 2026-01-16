@@ -54,6 +54,7 @@
           "^dev.xorcery:xorcery*",
           "^com.exoreaction.xorcery:xorcery*",
           "^com.exoreaction:slack-notification-library*",
+          "^no.cantara.electronics:lib"-,
           "^com.exoreaction:exoreaction-secrets-manager*"
         ],
         "automerge": true,
