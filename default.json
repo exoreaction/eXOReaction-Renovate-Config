@@ -14,7 +14,7 @@
           "^github.com/aws/aws-sdk-go",
           "^ch.qos.logback:logback-core*",    
           "^ch.qos.logback:logback-classic*",
-          "^org.apache.logging.log4j:log4^*",  
+          "^org.apache.logging.log4j:log4j*",  
           "^com.amazonaws:aws-*",
           "^org.slf4j:slf4j*",  
           "^org.slf4j:jcl*",  
@@ -54,7 +54,7 @@
           "^dev.xorcery:xorcery*",
           "^com.exoreaction.xorcery:xorcery*",
           "^com.exoreaction:slack-notification-library*",
-          "^no.cantara.electronics:lib"-,
+          "^no.cantara.electronics:lib-*",
           "^com.exoreaction:exoreaction-secrets-manager*"
         ],
         "automerge": true,
